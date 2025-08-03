@@ -26,19 +26,11 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajith-elumalai&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith-elumalai&layout=compact&theme=radical" />
-</p>
----
-
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajith-elumalai)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=web&logoColor=white)](https://ajith-portfolio.com) <!-- if available -->
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ajithelumalai@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ajith-elumalai](https://www.linkedin.com/in/ajith-e-1a9a5821b/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=web&logoColor=white)]([https://ajith-portfolio.com](https://ajith-portfolio-4b5b8.web.app/)) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ajith1312000@gmail.com)
 
 ---
 
